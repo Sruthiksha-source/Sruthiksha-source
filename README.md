@@ -18,11 +18,11 @@
 
 ### About Me
 
-- 2nd year **MEng Computer Science with AI (Industrial Year)** — University of York
-- Actively applying for **12-month industrial placements starting 2027/28**
-- Interested in taking AI/data science beyond health tech — hospitality, management systems, workplace efficiency
-- Spent a week at **Gilead Sciences**, sitting in on cross-departmental Law/Finance meetings and pitching a process-improvement idea to the department head and a guest researcher
-- Off-screen: painting, digital design, badminton
+- 🎓 2nd year **MEng Computer Science with AI (Industrial Year)** — University of York
+- 🔭 Actively applying for **12-month industrial placements starting 2027/28**
+- 🧠 Interested in taking AI/data science beyond health tech — hospitality, management systems, workplace efficiency
+- 🧪 Spent a week at **Gilead Sciences**, sitting in on cross-departmental Law/Finance meetings and pitching a process-improvement idea to the department head and a guest researcher
+- 🎨 Off-screen: painting, digital design, badminton
 
 ### Currently Building
 
@@ -49,12 +49,23 @@
 | [**Indian Rummy**](https://github.com/Sruthiksha-source/Indian-Rummy) | Online card game, built as an A-Level NEA using Agile iterative development with structured user testing at each stage | VB.NET |
 | [**York Student Events**](https://github.com/jamieramsell/york-student-events) | Centralised event discovery & social platform for University of York students | Python |
 
-### GitHub Stats
+### Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sruthiksha-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sruthiksha-source&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sruthiksha-source&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sruthiksha-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Sruthiksha-source&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### Right Now
 
