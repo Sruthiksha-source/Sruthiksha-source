@@ -18,11 +18,11 @@
 
 ### About Me
 
-- 🎓 2nd year **MEng Computer Science with AI (Industrial Year)** — University of York
-- 🔭 Actively applying for **12-month industrial placements starting 2027/28**
-- 🧠 Interested in taking AI/data science beyond health tech — hospitality, management systems, workplace efficiency
-- 🧪 Spent a week at **Gilead Sciences**, sitting in on cross-departmental Law/Finance meetings and pitching a process-improvement idea to the department head and a guest researcher
-- 🎨 Off-screen: painting, digital design, badminton
+- 2nd year **MEng Computer Science with AI (Industrial Year)** — University of York
+- Actively applying for **12-month industrial placements starting 2027/28**
+- Interested in taking AI/data science beyond health tech — hospitality, management systems, workplace efficiency
+- Spent a week at **Gilead Sciences**, sitting in on cross-departmental Law/Finance meetings and pitching a process-improvement idea to the department head and a guest researcher
+- Off-screen: painting, digital design, badminton
 
 ### Currently Building
 
