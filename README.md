@@ -51,21 +51,9 @@
 
 ### Activity & Stats
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sruthiksha-source&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sruthiksha-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Sruthiksha-source&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sruthiksha-source&theme=tokyonight&hide_border=true" width="65%" />
+</p>
 
 ### Right Now
 
